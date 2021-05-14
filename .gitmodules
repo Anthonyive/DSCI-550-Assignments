@@ -1,0 +1,9 @@
+[submodule "DSCI-550-Assignment-1"]
+	path = DSCI-550-Assignment-1
+	url = https://github.com/Anthonyive/DSCI-550-Assignment-1.git
+[submodule "DSCI-550-Assignment-2"]
+	path = DSCI-550-Assignment-2
+	url = https://github.com/Anthonyive/DSCI-550-Assignment-2.git
+[submodule "DSCI-550-Assignment-3"]
+	path = DSCI-550-Assignment-3
+	url = https://github.com/Anthonyive/DSCI-550-Assignment-3.git
