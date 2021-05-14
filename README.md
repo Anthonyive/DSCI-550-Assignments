@@ -1,6 +1,6 @@
 # DSCI-550-Assignments
 
-This repository is simply the combination of all three assignments into one. Each folder is a git submodule with commits w.r.t May 14, 2021, as the assignments should be finished by now.
+This repository is simply the combination of all three assignments into one. Each folder is a git submodule with commits w.r.t May 14, 2021, as the assignments should be finished by then.
 
 ## Code
 
